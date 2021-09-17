@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  margin-left: 15px;
+  color: green;
+  background-color: #654321;
+}
+
+form {
+  margin: 15px;
+}
+
+label {
+  margin-right: 15px;
+}
+
+img {
+  width: 500px;
+  height: 400px;
+}
+
+.header {
+  background-color: #654321
+  ;
+  padding: 10px;
+}
+
+.submit {
+  margin-left: 130px;
+  padding: 10px;
+}
+
+.homePage {
+  background-color: black;
+  color: green;
+}
+
+.pizzaForm {
+  background-color: rgb(103, 122, 179);
+}
+
+.error {
+  color: red;
+} 
